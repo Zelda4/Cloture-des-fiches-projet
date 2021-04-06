@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Clôture des fiches</name>
+    </assembly>
+    <members>
+        <member name="M:Clôture_des_fiches.AccesDB.#ctor">
+            Constructeur
+            
+            Création d'une nouvelle connection
+            <summary>
+            Constructeur de la classe AccesDB
+            Crée une nouvelle connexion
+             </summary>
+        </member>
+        <member name="M:Clôture_des_fiches.AccesDB.requete(System.String)">
+            Exécute une requete d'administration
+            sur la base de données
+            
+            @requete string requête SQL à saisir
+            <summary>
+            Exécute une requete d'administration
+             sur la base de données
+            </summary>
+            <param name="requete">string</param>
+        </member>
+        <member name="M:Clôture_des_fiches.AccesDB.selection(System.String)">
+            Exécute une requete de séléction
+            sur la base de données
+            
+            @selection string requête SQL de sélection à saisir  
+            <summary>
+            Exécute une requete de séléction
+             sur la base de données
+            </summary>
+            <param name="selection">string</param>
+        </member>
+        <member name="M:Clôture_des_fiches.GestionDates.getMoisPrecedent">
+            Retourne le mois précédent le mois actuel
+            
+            @return string mois précédent au format "MM"
+            <summary>
+            Retourne le mois précédent le mois actuel
+            </summary>
+            <returns>
+            mois précédent au format string "MM"
+             </returns>
+        </member>
+        <member name="M:Clôture_des_fiches.GestionDates.getMoisPrecedent(System.DateTime)">
+            Retourne le mois précédent le mois saisi
+            
+            Surcharge de la méthode getMoisPrecedent()
+            
+            @uneDate DateTime
+            
+            @return string mois précédent au format "MM"
+            <summary>
+            Retourne le mois précédent le mois saisi.
+            Surcharge de la méthode getMoisPrecedent().
+            </summary>
+            <param name="uneDate">DateTime</param>
+            <returns>
+            mois précédent au format string "MM"
+             </returns>
+        </member>
+        <member name="M:Clôture_des_fiches.GestionDates.getMoisSuivant">
+            Retourne le mois suivant le mois actuel
+            
+            @return string mois suivant au format "MM"
+            <summary>
+            Retourne le mois suivant le mois actuel
+             </summary>
+            <returns>
+            mois suivant au format string "MM"
+             </returns>
+        </member>
+        <member name="M:Clôture_des_fiches.GestionDates.getMoisSuivant(System.DateTime)">
+            Retourne le mois suivant le mois saisi
+            
+            Surcharge de la méthode getMoisSuivant()
+            
+            @uneDate DateTime
+            
+            @return string mois suivant au format "MM"
+            <summary>
+            Retourne le mois suivant le mois saisi.
+            Surcharge de la méthode getMoisSuivant().
+            </summary>
+            <param name="uneDate">DateTime</param>
+            <returns>
+            mois suivant au format string "MM"
+             </returns>
+        </member>
+        <member name="M:Clôture_des_fiches.GestionDates.entre(System.Int32,System.Int32)">
+            Retourne vrai si la date actuelle se situe
+            entre deux numéros de jour passés en paramètres
+            
+            @uneJour int
+            @unAutreJour int
+            
+            @return bool
+            <summary>
+            Retourne vrai si la date actuelle se situe
+             entre deux numéros de jour passés en paramètres
+            </summary>
+            <param name="unJour">int</param>
+            <param name="unAutreJour">int</param>
+            <returns>
+            bool
+             </returns>
+        </member>
+        <member name="M:Clôture_des_fiches.GestionDates.entre(System.Int32,System.Int32,System.DateTime)">
+            Retourne vrai si la date saisie se situe
+            entre deux numéros de jour passés en paramètres
+            
+            Surcharge de la méthode entre(int uneDate, int uneAutreDate)
+            
+            @uneJour int
+            @unAutreJour int
+            @uneDate DateTime
+            
+            @return bool
+            <summary>
+            Retourne vrai si la date saisie se situe
+             entre deux numéros de jour passés en paramètres.
+             Surcharge de la méthode entre(int uneDate, int uneAutreDate).
+            </summary>
+            <param name="unJour">int</param>
+            <param name="unAutreJour">int</param>
+            <param name="uneDate">DateTime</param>
+            <returns>
+            bool
+             </returns>
+        </member>
+    </members>
+</doc>
