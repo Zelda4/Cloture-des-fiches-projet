@@ -1,0 +1,72 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Clôture_des_fiches
+  name: Clôture_des_fiches
+  href: api/Cl%C3%B4ture_des_fiches.html
+  commentId: N:Clôture_des_fiches
+  fullName: Clôture_des_fiches
+  nameWithType: Clôture_des_fiches
+- uid: Clôture_des_fiches.GestionDates
+  name: GestionDates
+  href: api/Cl%C3%B4ture_des_fiches.GestionDates.html
+  commentId: T:Clôture_des_fiches.GestionDates
+  fullName: Clôture_des_fiches.GestionDates
+  nameWithType: GestionDates
+- uid: Clôture_des_fiches.GestionDates.entre(System.Int32,System.Int32)
+  name: entre(Int32, Int32)
+  href: api/Cl%C3%B4ture_des_fiches.GestionDates.html#Cl_ture_des_fiches_GestionDates_entre_System_Int32_System_Int32_
+  commentId: M:Clôture_des_fiches.GestionDates.entre(System.Int32,System.Int32)
+  fullName: Clôture_des_fiches.GestionDates.entre(System.Int32, System.Int32)
+  nameWithType: GestionDates.entre(Int32, Int32)
+- uid: Clôture_des_fiches.GestionDates.entre(System.Int32,System.Int32,System.DateTime)
+  name: entre(Int32, Int32, DateTime)
+  href: api/Cl%C3%B4ture_des_fiches.GestionDates.html#Cl_ture_des_fiches_GestionDates_entre_System_Int32_System_Int32_System_DateTime_
+  commentId: M:Clôture_des_fiches.GestionDates.entre(System.Int32,System.Int32,System.DateTime)
+  fullName: Clôture_des_fiches.GestionDates.entre(System.Int32, System.Int32, System.DateTime)
+  nameWithType: GestionDates.entre(Int32, Int32, DateTime)
+- uid: Clôture_des_fiches.GestionDates.entre*
+  name: entre
+  href: api/Cl%C3%B4ture_des_fiches.GestionDates.html#Cl_ture_des_fiches_GestionDates_entre_
+  commentId: Overload:Clôture_des_fiches.GestionDates.entre
+  isSpec: "True"
+  fullName: Clôture_des_fiches.GestionDates.entre
+  nameWithType: GestionDates.entre
+- uid: Clôture_des_fiches.GestionDates.getMoisPrecedent
+  name: getMoisPrecedent()
+  href: api/Cl%C3%B4ture_des_fiches.GestionDates.html#Cl_ture_des_fiches_GestionDates_getMoisPrecedent
+  commentId: M:Clôture_des_fiches.GestionDates.getMoisPrecedent
+  fullName: Clôture_des_fiches.GestionDates.getMoisPrecedent()
+  nameWithType: GestionDates.getMoisPrecedent()
+- uid: Clôture_des_fiches.GestionDates.getMoisPrecedent(System.DateTime)
+  name: getMoisPrecedent(DateTime)
+  href: api/Cl%C3%B4ture_des_fiches.GestionDates.html#Cl_ture_des_fiches_GestionDates_getMoisPrecedent_System_DateTime_
+  commentId: M:Clôture_des_fiches.GestionDates.getMoisPrecedent(System.DateTime)
+  fullName: Clôture_des_fiches.GestionDates.getMoisPrecedent(System.DateTime)
+  nameWithType: GestionDates.getMoisPrecedent(DateTime)
+- uid: Clôture_des_fiches.GestionDates.getMoisPrecedent*
+  name: getMoisPrecedent
+  href: api/Cl%C3%B4ture_des_fiches.GestionDates.html#Cl_ture_des_fiches_GestionDates_getMoisPrecedent_
+  commentId: Overload:Clôture_des_fiches.GestionDates.getMoisPrecedent
+  isSpec: "True"
+  fullName: Clôture_des_fiches.GestionDates.getMoisPrecedent
+  nameWithType: GestionDates.getMoisPrecedent
+- uid: Clôture_des_fiches.GestionDates.getMoisSuivant
+  name: getMoisSuivant()
+  href: api/Cl%C3%B4ture_des_fiches.GestionDates.html#Cl_ture_des_fiches_GestionDates_getMoisSuivant
+  commentId: M:Clôture_des_fiches.GestionDates.getMoisSuivant
+  fullName: Clôture_des_fiches.GestionDates.getMoisSuivant()
+  nameWithType: GestionDates.getMoisSuivant()
+- uid: Clôture_des_fiches.GestionDates.getMoisSuivant(System.DateTime)
+  name: getMoisSuivant(DateTime)
+  href: api/Cl%C3%B4ture_des_fiches.GestionDates.html#Cl_ture_des_fiches_GestionDates_getMoisSuivant_System_DateTime_
+  commentId: M:Clôture_des_fiches.GestionDates.getMoisSuivant(System.DateTime)
+  fullName: Clôture_des_fiches.GestionDates.getMoisSuivant(System.DateTime)
+  nameWithType: GestionDates.getMoisSuivant(DateTime)
+- uid: Clôture_des_fiches.GestionDates.getMoisSuivant*
+  name: getMoisSuivant
+  href: api/Cl%C3%B4ture_des_fiches.GestionDates.html#Cl_ture_des_fiches_GestionDates_getMoisSuivant_
+  commentId: Overload:Clôture_des_fiches.GestionDates.getMoisSuivant
+  isSpec: "True"
+  fullName: Clôture_des_fiches.GestionDates.getMoisSuivant
+  nameWithType: GestionDates.getMoisSuivant
