@@ -1,0 +1,10 @@
+C:\Users\Zelda\source\repos\ClotureDesFichesWinService\ClotureDesFichesWinService\bin\Release\ClotureDesFichesWinService.exe.config
+C:\Users\Zelda\source\repos\ClotureDesFichesWinService\ClotureDesFichesWinService\bin\Release\ClotureDesFichesWinService.exe
+C:\Users\Zelda\source\repos\ClotureDesFichesWinService\ClotureDesFichesWinService\bin\Release\ClotureDesFichesWinService.pdb
+C:\Users\Zelda\source\repos\ClotureDesFichesWinService\ClotureDesFichesWinService\obj\Release\ClotureDesFichesWinService.ClotureDesFichesWinService.resources
+C:\Users\Zelda\source\repos\ClotureDesFichesWinService\ClotureDesFichesWinService\obj\Release\ClotureDesFichesWinService.ProjectInstaller.resources
+C:\Users\Zelda\source\repos\ClotureDesFichesWinService\ClotureDesFichesWinService\obj\Release\ClotureDesFichesWinService.csproj.GenerateResource.cache
+C:\Users\Zelda\source\repos\ClotureDesFichesWinService\ClotureDesFichesWinService\obj\Release\ClotureDesFichesWinService.csproj.CoreCompileInputs.cache
+C:\Users\Zelda\source\repos\ClotureDesFichesWinService\ClotureDesFichesWinService\obj\Release\ClotureDesFichesWinService.exe
+C:\Users\Zelda\source\repos\ClotureDesFichesWinService\ClotureDesFichesWinService\obj\Release\ClotureDesFichesWinService.pdb
+C:\Users\Zelda\source\repos\ClotureDesFichesWinService\ClotureDesFichesWinService\obj\Release\ClotureDesFichesWinService.csprojAssemblyReference.cache

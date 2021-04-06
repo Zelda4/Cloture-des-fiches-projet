@@ -1,0 +1,47 @@
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\obj\Debug\netcoreapp3.1\Clôture des fiches.csprojAssemblyReference.cache
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\obj\Debug\netcoreapp3.1\Clôture_des_fiches.Properties.Resources.resources
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\obj\Debug\netcoreapp3.1\Clôture des fiches.csproj.GenerateResource.cache
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\obj\Debug\netcoreapp3.1\Clôture des fiches.AssemblyInfoInputs.cache
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\obj\Debug\netcoreapp3.1\Clôture des fiches.AssemblyInfo.cs
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\Clôture des fiches.exe
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\Clôture des fiches.deps.json
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\Clôture des fiches.runtimeconfig.json
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\Clôture des fiches.runtimeconfig.dev.json
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\Clôture des fiches.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\Clôture des fiches.pdb
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\Antlr3.Runtime.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\mysql.data.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\mysql.data.entity.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\MySql.Debugger.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\MySql.Debugger.VisualStudio.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\MySql.Parser.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\mysql.visualstudio.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\mysql.web.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\obj\Debug\netcoreapp3.1\Clôture des fiches.csproj.CopyComplete
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\obj\Debug\netcoreapp3.1\Clôture des fiches.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\obj\Debug\netcoreapp3.1\Clôture des fiches.pdb
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\obj\Debug\netcoreapp3.1\Clôture des fiches.genruntimeconfig.cache
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\System.Security.AccessControl.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\System.Security.Principal.Windows.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\Microsoft.Win32.Registry.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\System.Management.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\Zelda\source\repos\Clôture des fiches\Clôture des fiches\obj\Debug\netcoreapp3.1\Clôture des fiches.csproj.CoreCompileInputs.cache
